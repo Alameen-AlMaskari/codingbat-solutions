@@ -1,0 +1,5 @@
+package String1;
+
+public boolean endsLy(String str) {
+    return str.endsWith("ly");
+}
